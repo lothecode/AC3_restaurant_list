@@ -14,7 +14,8 @@ a favorite restaurant list, an node.js practice
 ###  User can search reataurant by name in the search box on the above
 
 ##	Getting Started
-git clone or download AC3_works_restaurantList.git to your computer
+git clone or download https://github.com/lothecode/AC3_restaurant_list.git to your computer
+
 
 ###	Installing
 - open terminal to the folder of this project
